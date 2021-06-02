@@ -1,7 +1,7 @@
 # Uncertainty Aware Learning
 This project demonstrates the use of a neural network classifier parameterized on a source of systematic uncertainty – a nuisance parameter. The classifier learns a conditional decision function such that its dependence on the nuisance paramter can be profiled over for the final estimation of the parameter of interest. 
 
-This project was developed to compare the advantages of this technique in comparison to the machine learning techniques that are currently used in High Energy Physics experiments, resulting in the paper : https://arxiv.org/abs/2105.08742.
+This project was developed to compare the advantages of this technique in comparison to the machine learning techniques that are currently used in High Energy Physics experiments, resulting in the paper : Uncertainty Aware Learning for High Energy Physics (https://arxiv.org/abs/2105.08742).
 
 # Notebooks
 Two example notebooks illustrate how uncertainty aware learning works. The toy example is reccomended as an instructive self-contained notebook.
